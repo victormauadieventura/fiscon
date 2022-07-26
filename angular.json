@@ -31,6 +31,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -99,12 +100,20 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.scss"
             ],
             "scripts": []
           }
         }
       }
+    }
+  },
+  "cli": {
+    "analytics": "14daf764-edbb-41c5-acfd-869a66b0ce10",
+    "cache": {
+      "enabled": false,
+      "environment": "all"
     }
   },
   "defaultProject": "fiscon"
